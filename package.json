@@ -1,0 +1,15 @@
+{
+  "name": "layout",
+  "version": "1.0.0",
+  "description": "A fork of jquery ui layout able to be used as an npm module",
+  "main": "source/stable/jquery.layout.js",
+  "author": "Ben Maurer",
+  "license": "MIT",
+  "homepage": "https://github.com/allpro/layout",
+  "docs": "http://layout.jquery-dev.com/documentation.cfm",
+  "bugs": "https://groups.google.com/forum/#!forum/jquery-ui-layout",
+  "download": "https://github.com/allpro/layout/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.5"
+  }
+}
